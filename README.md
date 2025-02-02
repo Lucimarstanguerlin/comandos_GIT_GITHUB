@@ -6,8 +6,9 @@ cd repositorio - atravez do prompt navegue ate a raiz do projeto e :
 git init  - vai criar uma extensão .git <br>
 git status -  verificar se os arquivos estão atualizados<br>
 git add. - para preparar o commit de todos arquivos da pasta - area staging<br>
-git commit -m "Sua mensagem de commit descritiva"<br>
+git commit -m "Sua mensagem de commit descritiva"
 
+Teste 
 
 
 
