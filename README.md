@@ -1,7 +1,6 @@
 # comandos_GIT_GITHUB
 instruções para gerenciar arquivos no git e github<br>
-
-Para iniciar um repositorio no git da maquina<br>
+**Para iniciar um repositorio no git da maquina**<br>
 cd repositorio - atravez do prompt navegue ate a raiz do projeto e :
 
 git init  - vai criar uma extensão .git <br>
