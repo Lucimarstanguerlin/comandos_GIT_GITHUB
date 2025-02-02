@@ -23,6 +23,18 @@ git commit -m "Mensagem a ser commitada"
 git pusch para sincronizar com git hub
 
 
+**Para fazer add, comitt e pussh com a tela do git na maquina**<br>
+
+Apos a alteração, abra no diretorio - clicar com direito e git here
+Caso a alteração esteja correta - pressione o botao stage changed
+pressione o signed off
+Coloque uma mensagem referente ao commit e pressione o commit
+  
+va ate remote add para incluir o repositorio remoto
+copie a url do repositorio remoto que quer salvar
+apos isso apertar push para que seja feito o commit no github
+
+
 
 
 
