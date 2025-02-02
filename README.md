@@ -10,7 +10,7 @@ git status -  verificar se os arquivos estão atualizados<br>
 git add. - para preparar o commit de todos arquivos da pasta - area staging<br>
 git commit -m "Sua mensagem de commit descritiva"
 
-Teste  para add.
+
 <!-- Este é um comentário em Markdown que será visível no texto renderizado -->
 
 
