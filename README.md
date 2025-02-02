@@ -18,7 +18,9 @@ git commit -m "Sua mensagem de commit descritiva"
 apos alterar o arquivo:
 
 git status -  verificar se os arquivos estão atualizados<br>
-
+git add . - para preparar o commit de todos arquivos da pasta - area staging<br>
+git commit -m "Mensagem a ser commitada"
+git pusch para sincronizar com git hub
 
 
 
